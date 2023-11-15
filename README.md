@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hi there! I'm Lautaro, a 20-year-old student of Information Systems Engineering from Argentina, passionate about technology and always looking to learn new things. <br>🎮 In my free time, I enjoy making music and playing video games.<br>💻 My current focus is on learning languages and technologies used in the web field, and I have worked on web development projects. <br>👥 I am a good leader and responsible, with strong communication skills. <br>🚀 I'm eager to continue learning and growing in this exciting field of technology. 
+🔭 Hi there! I'm Lautaro, a 21-year-old student of Information Systems Engineering from Argentina, passionate about technology and always looking to learn new things. <br>🎮 In my free time, I enjoy making music and playing video games.<br>💻 My current focus is on learning languages and technologies used in the web field, and I have worked on web development projects. <br>👥 I am a good leader and responsible, with strong communication skills. <br>🚀 I'm eager to continue learning and growing in this exciting field of technology. 
 
 
 ## 🌐 Socials:
